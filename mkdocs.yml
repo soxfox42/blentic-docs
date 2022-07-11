@@ -1,0 +1,5 @@
+site_name: BlenTIC
+site_url: https://soxfox.me/blentic
+theme: readthedocs
+markdown_extensions:
+  - def_list
