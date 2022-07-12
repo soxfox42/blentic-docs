@@ -1,5 +1,6 @@
 site_name: BlenTIC
-site_url: https://soxfox.me/blentic
+site_url: https://soxfox.me/blentic-docs
+site_description: Documentation for HanamileH's BlenTIC
 theme: readthedocs
 markdown_extensions:
   - def_list
