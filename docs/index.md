@@ -2,7 +2,7 @@
 
 ![Cube created in BlenTIC](img/blentic.png)
 
-[BlenTIC](https://tic80.com/play?cart=2709) is a tool by [HanamileH](https://tic80.com/dev?id=2749) for creating 3D models (including textures) in TIC-80.
+[BlenTIC](https://tic80.com/play?cart=2709) is a tool by [HanamileH](https://tic80.com/dev?id=2749) for creating 3D models (including textures) in TIC-80. This documentation was written by [soxfox42](https://soxfox.me/).
 
 Check out the [interface overview](interface.md) to get started!
 
